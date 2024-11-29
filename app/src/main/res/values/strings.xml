@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="sp_ft" />
+    <string name="lista_estudiante">Lista Estudiante</string>
+</resources>
